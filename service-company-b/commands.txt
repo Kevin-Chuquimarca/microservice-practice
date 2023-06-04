@@ -1,0 +1,22 @@
+COMANDS
+source flask-microservice/Scripts/activate
+pip install flask
+pip install oracledb
+pip install flask_cors
+py flask_app.py
+
+DB CONNECTION
+repository folder files
+
+APIS
+METHOD	ROUTE
+(GET)  ->   http://127.0.0.1:8060/cb/product
+
+
+SQL SCRIPT
+company-b.sql
+
+
+ADMIN ACCOUNT
+user: admin
+password: admin
