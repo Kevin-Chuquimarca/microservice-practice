@@ -1,0 +1,2 @@
+start_command: "py flask_app.py --port"
+path: "C:\\Users\\santi\\Documents\\microservices\\service-company-b"

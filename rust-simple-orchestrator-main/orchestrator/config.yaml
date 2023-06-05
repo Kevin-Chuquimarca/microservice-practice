@@ -1,0 +1,13 @@
+check_time: 15
+servers:
+  # - address: "localhost"
+  #   ports: [8001, 8002, 8003, 8004]
+  #   ignite_port: 4444 
+  #   path: "/a/parts/search"
+  #   company: "A"
+  - address: "127.0.0.1"
+    ports: [8001, 8002, 8003, 8004]
+    ignite_port: 4444
+    path: "/cb/products"
+    company: "B"
+ 
